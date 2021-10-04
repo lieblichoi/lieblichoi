@@ -2,7 +2,7 @@
 _"I'm a passionate front-end developer."_
 ***
 - 🌱 I’m currently learning JavaScript & React.
-- 📫 How to reach me: [Gmail](lieblichoi@gmail.com)
+- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](lieblichoi@gmail.com) 
 - 😄 "To Dare Is To Do"
 - ⚡ Fun fact: I'm an artist!
 ***
