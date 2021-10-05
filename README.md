@@ -4,7 +4,7 @@ _"I'm a passionate front-end developer."_
 - 🌱 I’m currently learning JavaScript & React.
 - 📫 How to reach me: lieblichoi@gmail.com 
 - 😄 "To Dare Is To Do"
-- ⚡ Fun fact: I'm an artist!
+- ⚡ I'm an artist!
 ***
 ![Jaehwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lieblichoi&theme=react&show_icons=true)
 ***
