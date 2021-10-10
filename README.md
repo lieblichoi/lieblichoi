@@ -1,6 +1,4 @@
 ## Hello world, I'm Jaehwan 👋
-_"I'm a passionate front-end developer."_
-***
 - 🌱 I’m currently learning JavaScript & React.
 - 📫 How to reach me: lieblichoi@gmail.com 
 - 😄 "To Dare Is To Do"
