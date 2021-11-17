@@ -1,4 +1,4 @@
-## Hello world, I'm Jaehwan 👋
+## Hello world, I'm Jaehwan! 👋
 - 🌱 I’m currently learning JavaScript & React.
 - 📫 How to reach me: lieblichoi@gmail.com 
 - 😄 "To Dare Is To Do"
