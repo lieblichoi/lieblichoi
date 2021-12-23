@@ -1,5 +1,5 @@
-## “반갑습니다! 👋
- 성장하는 개발자 최재환입니다.”
+## “반갑습니다! 👋 
+## 성장하는 개발자 최재환입니다.”
 - 🌱 I’m currently learning JavaScript & React.
 - 📫 How to reach me: lieblichoi@gmail.com 
 - 😄 "To Dare Is To Do"
