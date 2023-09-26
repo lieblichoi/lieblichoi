@@ -4,7 +4,7 @@
 - 👬 열린 소통으로 새로운 것을 배움에 적극적입니다. 
 - 🏃 꾸준함을 바탕으로 매 순간 성장하기 위해 노력합니다.
 - 📫 lieblichoi@gmail.com 
-- 😄 "To Dare Is To Do"
+- 😄 "To Dare Is To Do" - "하면 된다"
 - ⚡ I'm an artist!
 ***
 ### 🛳️ Career
