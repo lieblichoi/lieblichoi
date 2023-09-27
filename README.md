@@ -14,8 +14,9 @@
        2. 프로젝트 디자인 시스템 정립 (Atomic Design Pattern 기반)
        3. 로그인 기능 개발
        4. 결제 기능 개발
-       5. 상품 검색 및 리스트, 상세 정보 조회 기능 개발
-       6. 전체 기능 유지 보수
+       5. 스토어홈 페이지 개발
+       6. 상품 검색 및 리스트, 상세 정보 조회 기능 개발
+       7. 전체 기능 유지 보수
    - [위버딩 작가 어드민 웹](https://seller.webudding.com/) 프론트엔드 개발 (운영 중)
        1. TypeScript, React.js, Webpack 5, Recoil, react-query, emotion/css
        2. 프로젝트 디자인 시스템 재정립 (Atomic Design Pattern 기반)
