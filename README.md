@@ -7,24 +7,6 @@
 - 😄 "To Dare Is To Do" - "하면 된다"
 - ⚡ I'm an artist!
 ***
-### 🛳️ Career
-1. 👨🏻‍💻 누트컴퍼니 재직 중 (2022.01 ~ 현재)
-   - [위버딩 커머스 스토어 웹](https://webudding.com/) 프론트엔드 개발 (운영 중) 
-       1. TypeScript, Next.js, Recoil, react-query, emotion/css
-       2. 프로젝트 디자인 시스템 정립 (Atomic Design Pattern 기반)
-       3. 로그인 기능 개발
-       4. 결제 기능 개발
-       5. 스토어홈 페이지 개발
-       6. 상품 검색 및 리스트, 상세 정보 조회 기능 개발
-       7. 전체 기능 유지 보수
-   - [위버딩 작가 어드민 웹](https://seller.webudding.com/) 프론트엔드 개발 (운영 중)
-       1. TypeScript, React.js, Webpack 5, Recoil, react-query, emotion/css
-       2. 프로젝트 디자인 시스템 재정립 (Atomic Design Pattern 기반)
-       3. 입점신청 프로세스 UI/UX 리디자인 및 개발
-       4. 상품 등록 및 수정 기능 개발
-       5. 웹 프로젝트 전체 기능 개발
-       6. 전체 기능 유지 보수
-***
 ### 🛠 Stacks 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
